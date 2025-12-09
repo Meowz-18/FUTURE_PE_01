@@ -1,5 +1,7 @@
 Title: YouTube Content Automation Project — AI‑Powered Video Creation
 
+Video Link - https://drive.google.com/file/d/1AiNAV-lyF3QT529tTo79U97XJEiJirx2/view?usp=sharing
+
 Overview
 This project is a complete, end‑to‑end demonstration of prompt engineering applied to real-world content creation. The goal was to use AI tools to automate the entire YouTube production workflow — from ideation to scripting, thumbnail prompting, and video generation.
 
